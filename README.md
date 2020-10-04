@@ -1,39 +1,59 @@
-## Welcome to GitHub Pages
+## Welcome to Agile Automata
 
-You can use the [editor on GitHub](https://github.com/singularityhacker/agile-automata/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Introductory thoughts..
+
+Look at the ecosystem of lean and agile thinking. Deloit diagram. Cut through the mess and arrive ta something better. A large emphasis on soft skills, novelty, personality, and tradition. We are not saying there is no place for these things, we're just saying that we should have a proven and empirically verified system at the core of our delivery engine.
+
+### Rigorous
+
+Based on rigorous scientific research. This value should drive decisions around research and articulation. 
+
+Extrapolating the very best from existing software delivery systems. 
+
+A comparison of existing systems and the creation of a feature-matrix.
+
+### Recursively Consistent
+
+Existing attempts to scale agile software delivery are internally inconsistent in that the prescribed methods to scale the system contradict the prescribed actions in the prescale version of the system. 
+
+Program thinking..
+
+### Remote-first
+
+Internet native..
+
+Disintermediated..
+
+Truly autonomous...
+
+Add the slide deck..
+
+### Applicable to non-software engineering domains
+
+An approach that generalizes the iterative and incremental delivery to domains outside of software development. 
+
+There is a massively growing trend to apply these things to all manner of domains. We want to advance that thought and assist in articulating how that application can and should be carried out to the greatest benefit of the practitioners. 
+
+### Instantiated as code
+
+If DevOps is infrastructure as code then why shouldn't our process exist as code as well?
+
+The utilization of smart contracts.
+
+### Modular
+
+As there is no universally best data-structure or engineering solution so there is probably no best process. In keeping with these, we advocate the creation of multiple inter-compatible process modules. 
+
+An initial set of agile process components.
+
+### Contributable
+
+Cultivate an ecosystem where people can create and share their own organizational process components. 
+
+Reach out to Agile thought leaders and introduce this initiative to them. Show how elements of Agile Automata can be used in combination with their existing systems or side by side with it. 
+
+Reach out to the existing blockchain development community to demonstrate how their software delivery can be improved and made more transparent to the benefit of their customers and token holders. 
+
+---
 
 First blog post [here](test.md). Boom
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/singularityhacker/agile-automata/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
