@@ -40,6 +40,8 @@ Internet native..
 
 Add \[remote first\] slide deck..
 
+And expand upon it: https://theconversation.com/have-we-just-stumbled-on-the-biggest-productivity-increase-of-the-century-145104
+
 Time-shifted 
 
 \[massive opportunity to increase speed\]
