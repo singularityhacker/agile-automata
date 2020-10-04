@@ -2,11 +2,19 @@
 
 Introductory thoughts..
 
+Agile: iterative value delivery feedback loop
+
+Automata: machine-like
+
 Look at the ecosystem of lean and agile thinking. 
 
 \[Deloit diagram\]
 
+!\[State of Agile\](https://miro.medium.com/max/2400/1*jfJgrW5L6jpiKivCbr8fQA.jpeg)
+
 Cut through the mess and arrive ta something better. A large emphasis on soft skills, novelty, personality, and tradition. We are not saying there is no place for these things, we're just saying that we should have a proven and empirically verified system at the core of our delivery engine.
+
+!\[adoption chart\](https://i.imgur.com/ktGgb7i.png)
 
 ### Rigorous
 
