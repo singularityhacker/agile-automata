@@ -1,5 +1,7 @@
 ## Welcome to Agile Automata
 
+<img src="https://i.imgur.com/S0QEqVa.gif" width="300" />
+
 Introductory thoughts..
 
 Agile: iterative value delivery feedback loop
@@ -11,8 +13,6 @@ Look at the ecosystem of lean and agile thinking. 
 <img src="https://miro.medium.com/max/2400/1*jfJgrW5L6jpiKivCbr8fQA.jpeg" width="700" />
 
 Cut through the mess and arrive ta something better. A large emphasis on soft skills, novelty, personality, and tradition. We are not saying there is no place for these things, we're just saying that we should have a proven and empirically verified system at the core of our delivery engine.
-
-<img src="https://i.imgur.com/ktGgb7i.png" width="700" />
 
 ### Rigorous
 
@@ -29,6 +29,8 @@ Actionable and meaningful metrics. 
 ### Scalable
 
 Recursively Consistent: Existing attempts to scale agile software delivery are internally inconsistent in that the prescribed methods to scale the system contradict the prescribed actions in the prescale version of the system. 
+
+<img src="https://i.imgur.com/ktGgb7i.png" width="500" />
 
 Divisibility of effort: feature teams, user stories, micro-frontends, and micro-services. 
 
