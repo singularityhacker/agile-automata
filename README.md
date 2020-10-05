@@ -1,6 +1,6 @@
 ## Welcome to Agile Automata
 
-<img src="https://i.imgur.com/S0QEqVa.gif" width="300" />
+![](https://i.imgur.com/S0QEqVa.gif)
 
 Introductory thoughts..
 
@@ -10,9 +10,19 @@ Automata: machine-like
 
 Look at the ecosystem of lean and agile thinking. 
 
-<img src="https://miro.medium.com/max/2400/1*jfJgrW5L6jpiKivCbr8fQA.jpeg" width="700" />
+![](https://miro.medium.com/max/2400/1*jfJgrW5L6jpiKivCbr8fQA.jpeg)
 
 Cut through the mess and arrive ta something better. A large emphasis on soft skills, novelty, personality, and tradition. We are not saying there is no place for these things, we're just saying that we should have a proven and empirically verified system at the core of our delivery engine.
+
+Seven properties:
+
+1.  Rigorous
+2.  Scalable
+3.  Generalized
+4.  Remote-first
+5.  Existing as Code
+6.  Modular
+7.  Contributable
 
 ### Rigorous
 
@@ -30,15 +40,15 @@ Actionable and meaningful metrics. 
 
 Recursively Consistent: Existing attempts to scale agile software delivery are internally inconsistent in that the prescribed methods to scale the system contradict the prescribed actions in the prescale version of the system. 
 
-<img src="https://i.imgur.com/ktGgb7i.png" width="500" />
+![](https://i.imgur.com/ktGgb7i.png)
 
 Divisibility of effort: feature teams, user stories, micro-frontends, and micro-services. 
 
 Program and system-level thinking..
 
-### Applicable to non-software engineering domains
+### Generalized
 
-An approach that generalizes the iterative and incremental delivery to domains outside of software development. 
+An approach that generalizes (Applicable to non-software engineering domains) the iterative and incremental delivery to domains outside of software development. 
 
 There is a massively growing trend to apply these things to all manner of domains. We want to advance that thought and assist in articulating how that application can and should be carried out to the greatest benefit of the practitioners. 
 
