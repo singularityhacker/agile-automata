@@ -8,6 +8,8 @@ Agile: Devilering solutions through the collaborative effort of self-organizing 
 
 Automata: a machine that performs a function according to a predetermined set of coded instructions.
 
+Agile Automata are process and coordination machines that drive value delivery. They function through formally defined procedures and processes.
+
 How are the methods for delivery software engineering work not held to the same standards we apply to our very craft? Our mission is to deconstruct and analyze existing and [agile delivery methods](https://miro.medium.com/max/2400/1*jfJgrW5L6jpiKivCbr8fQA.jpeg), cut through the mess, and formulate something better. In the existing agile coaching landscape, great emphasis is on soft skills, novelty, personality, and tradition. We are not saying there is no place for these things, we're just saying that we should have a proven and empirically verified system at the core of our delivery engine. We aim to do this by pursuing 7 interdependent goals. In summary, they are the following:
 
 1.  Rigorous
