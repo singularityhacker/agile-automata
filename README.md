@@ -1,20 +1,15 @@
-## Welcome to Agile Automata
+## Welcome to Agile Automata 
+![](https://i.imgur.com/Xw7Ns35.gif) 
 
-![](https://i.imgur.com/S0QEqVa.gif)
 
-Introductory thoughts..
+
+**Introduction**
 
 Agile: iterative value delivery feedback loop
 
 Automata: machine-like
 
-Look at the ecosystem of lean and agile thinking. 
-
-![](https://miro.medium.com/max/2400/1*jfJgrW5L6jpiKivCbr8fQA.jpeg)
-
-Cut through the mess and arrive ta something better. A large emphasis on soft skills, novelty, personality, and tradition. We are not saying there is no place for these things, we're just saying that we should have a proven and empirically verified system at the core of our delivery engine.
-
-Seven properties:
+How are the methods for delivery software engineering work not held to the same standards we apply to our very craft? Our mission is to deconstruct and analyze existing and [agile delivery methods](https://miro.medium.com/max/2400/1*jfJgrW5L6jpiKivCbr8fQA.jpeg), cut through the mess, and formulate something better. In the existing agile coaching landscape, great emphasis is on soft skills, novelty, personality, and tradition. We are not saying there is no place for these things, we're just saying that we should have a proven and empirically verified system at the core of our delivery engine. We aim to do this by pursuing 7 interdependent goals. In summary, they are the following:
 
 1.  Rigorous
 2.  Scalable
@@ -38,9 +33,7 @@ Actionable and meaningful metrics. 
 
 ### Scalable
 
-Recursively Consistent: Existing attempts to scale agile software delivery are internally inconsistent in that the prescribed methods to scale the system contradict the prescribed actions in the prescale version of the system. 
-
-![](https://i.imgur.com/ktGgb7i.png)
+Extrapolate a method from [existing systems](https://i.imgur.com/QzcBwb6.png) for scaling agile delivery methods that's both rigorous and recursively consistent. Existing attempts to scale agile software delivery are internally inconsistent in that the prescribed methods to scale the system contradict the prescribed actions in the prescale version of the system. 
 
 Divisibility of effort: feature teams, user stories, micro-frontends, and micro-services. 
 
