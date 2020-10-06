@@ -1,5 +1,6 @@
-## Welcome to Agile Automata 
-![](https://i.imgur.com/Xw7Ns35.gif) 
+![](https://i.imgur.com/Xw7Ns35.gif)
+## Welcome to Agile Automata
+
 
 
 
