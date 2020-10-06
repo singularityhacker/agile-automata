@@ -1,14 +1,12 @@
 ![](https://i.imgur.com/Xw7Ns35.gif)
+
 ## Welcome to Agile Automata
-
-
-
 
 **Introduction**
 
-Agile: iterative value delivery feedback loop
+Agile: Devilering solutions through the collaborative effort of self-organizing and cross-functional teams to their customers through adaptive planning, evolutionary development, early delivery, and continual improvement, with flexible responses to change.
 
-Automata: machine-like
+Automata: a machine that performs a function according to a predetermined set of coded instructions.
 
 How are the methods for delivery software engineering work not held to the same standards we apply to our very craft? Our mission is to deconstruct and analyze existing and [agile delivery methods](https://miro.medium.com/max/2400/1*jfJgrW5L6jpiKivCbr8fQA.jpeg), cut through the mess, and formulate something better. In the existing agile coaching landscape, great emphasis is on soft skills, novelty, personality, and tradition. We are not saying there is no place for these things, we're just saying that we should have a proven and empirically verified system at the core of our delivery engine. We aim to do this by pursuing 7 interdependent goals. In summary, they are the following:
 
@@ -77,7 +75,7 @@ As there is no universally best data-structure or engineering solution so there 
 
 ### Contributable
 
-Cultivate an ecosystem where people can create and share their own agility process smart contract components. Reach out to Agile thought leaders and introduce this initiative to them. Show how elements of Agile Automata can be used in combination with their existing systems or side by side with it. Reach out to the existing blockchain development community to demonstrate how their software delivery can be improved and made more transparent to the benefit of their customers and token holders. 
+Cultivate an ecosystem where people can create and share their own agility process smart contract components. Similar to how the 17 software developers produced the Agile Manifesto at Utah’s Snowbird ski resort in 2001, we intend to reach out to agile thought leaders to show how elements of Agile Automata can be used in combination with their existing systems to advance the science of software delivery. We also intend to reach out to the existing blockchain development community to demonstrate how their own software delivery can be improved and made more transparent to the benefit of their users and token holders. 
 
 ### Conclusion
 
